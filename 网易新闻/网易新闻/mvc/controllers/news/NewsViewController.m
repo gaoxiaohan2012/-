@@ -18,6 +18,8 @@
     UIScrollView *_contentScrollView;
     NSMutableArray *_labelArr;
     NSMutableArray *_newsVcArr;
+    
+    
 }
 
 
